@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "fIJpSmwM3BmBKh8IGywhKBNvmeuopkyGOP49/kJI9ZXMkLwME8kAiL5Z0622nG2Ew7fxsjgv2VmQj6Q5lBjYWQ==",
+  "success": true,
+  "projectFilePath": "/Users/mohammadyazdani/angular/SuperHeroNG/SuperHero-API/SuperHero-API/SuperHero-API.csproj",
+  "expectedPackageFiles": [
+    "/Users/mohammadyazdani/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/mohammadyazdani/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/mohammadyazdani/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/mohammadyazdani/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/mohammadyazdani/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/mohammadyazdani/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
